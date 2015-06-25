@@ -1,0 +1,22 @@
+<div class="header-container">
+    <header class="wrapper clearfix">
+          <h1 class="title"><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+
+
+      <nav class="site-nav">
+
+        <div class="trigger">
+          <ul>
+            {% for page in site.pages %}
+              {% if page.title %}
+              <li><a itemprop="url" class="page-link" href="{{ page.url | prepend: site.baseurl }}">
+              <span itemprop="name">{{ page.title }}</span></a></li>
+              {% endif %}
+            {% endfor %}
+          </ul>
+        </div>
+      </nav>
+  </header>
+</div>
+
+

@@ -1,0 +1,12 @@
+# Site settings
+title: Graham Griffiths
+email: contact@grahamrgrfifiths.com
+description: > # this means to ignore newlines until "baseurl:"
+  A new place to hold my blog posts and projects, WIP
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.grahamrgriffiths.com" # the base hostname & protocol for your site
+twitter_username: grahamgriffiths
+github_username:  grahamrgriffiths
+
+# Build settings
+markdown: kramdown
