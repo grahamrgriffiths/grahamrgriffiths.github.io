@@ -1,0 +1,27 @@
+/* TEAM */
+
+                            
+Your title: {{ site.title }}
+
+                            
+Site: {{ site.email }}
+
+                            
+Twitter: {{ site.twitter_username }}
+
+                            
+Location: World wide web                        
+
+                            
+/* SITE */
+
+                            
+Last update: 2015/06/29 
+
+                            
+Standards: HTML5, CSS3,..
+
+                            
+Components: Modernizr, jQuery, etc.
+
+                        
