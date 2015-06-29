@@ -11,7 +11,7 @@ layout: default
     </aside>
 
     {% for post in site.posts %}
-      <article>
+      <article itemscope itemtype="http://schema.org/Article">
        <header>
         <h2>
           <a itemprop="url" class="post-link" href="{{ post.url | prepend: site.baseurl }}">
