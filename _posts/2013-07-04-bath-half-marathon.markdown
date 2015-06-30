@@ -4,6 +4,7 @@ title:  "Bath Half Marathon"
 date:   2013-07-04 10:56:09
 categories: charity
 tags: charity running
+comments: true
 ---
 
 ## tl;dr
