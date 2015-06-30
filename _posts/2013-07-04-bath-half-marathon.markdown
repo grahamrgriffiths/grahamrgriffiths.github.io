@@ -12,7 +12,7 @@ On Sunday 3rd March 2013, I ran Bath half marathon in aid of Leukaemia and Lymph
 
 I ran in memory of my Uncle Arwyn who was diagnosed with Acute Myeloid Leukaemia November 2011, he sadly passed away on the 5th of April 2012.
 
-+<!--more-->
+<!--more-->
 
 ## Background
 
