@@ -6,11 +6,13 @@ categories: charity
 tags: charity running
 ---
 
-## tl;dr
+# tl;dr
 
 On Sunday 3rd March 2013, I ran Bath half marathon in aid of Leukaemia and Lymphoma Research. I raised £335.00 with an extra £75.00 from gift aid.
 
 I ran in memory of my Uncle Arwyn who was diagnosed with Acute Myeloid Leukaemia November 2011, he sadly passed away on the 5th of April 2012.
+
++<!--more-->
 
 ## Background
 
