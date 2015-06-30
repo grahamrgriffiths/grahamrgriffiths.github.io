@@ -56,7 +56,9 @@ The flight took roughly the same time as the coach trip, and it wasn't far from 
 
 [![WP_20140523_007](https://farm4.staticflickr.com/3855/14305341007_8ba77f9655_n.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14305341007 "WP_20140523_007 by Graham Griffiths, on Flickr")
 
-[![WP_20140523_018](https://farm4.staticflickr.com/3855/14490570014_f749e0d59b_n.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14490570014 "WP_20140523_018 by Graham Griffiths, on Flickr")[![WP_20140523_016](https://farm4.staticflickr.com/3892/14305341987_01ebc238a8_n.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14305341987 "WP_20140523_016 by Graham Griffiths, on Flickr")
+[![WP_20140523_018](https://farm4.staticflickr.com/3855/14490570014_f749e0d59b_n.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14490570014 "WP_20140523_018 by Graham Griffiths, on Flickr")
+
+[![WP_20140523_016](https://farm4.staticflickr.com/3892/14305341987_01ebc238a8_n.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14305341987 "WP_20140523_016 by Graham Griffiths, on Flickr")
 
 ## Day one - feeling nervous and excited
 
@@ -116,7 +118,9 @@ We then went via Zonnebeke, into Ypres and finished up in Langemark for the cele
 
 Initial celebrations and the award ceremony took place. We had a fantastic buffet accompanied with one or two drinks, and a late night (or should I say early morning) in a local Belgium bar.
 
-[![WP_20140526_011](https://farm4.staticflickr.com/3852/14305185189_4602f0d7f2.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14305185189 "WP_20140526_011 by Graham Griffiths, on Flickr")[![WP_20140526_014](https://farm4.staticflickr.com/3895/14305159980_9183b9fab1.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14305159980 "WP_20140526_014 by Graham Griffiths, on Flickr")
+[![WP_20140526_011](https://farm4.staticflickr.com/3852/14305185189_4602f0d7f2.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14305185189 "WP_20140526_011 by Graham Griffiths, on Flickr")
+
+[![WP_20140526_014](https://farm4.staticflickr.com/3895/14305159980_9183b9fab1.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14305159980 "WP_20140526_014 by Graham Griffiths, on Flickr")
 
 ## Time to go home
 
@@ -138,4 +142,4 @@ The overall experience was beyond all expectations. There is a saying in Welsh, 
 
 My colleague was kind enough to lend me their GoPro for the trip, here is the compiled footage :-)  
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/8Bwdcuxq4g/0.jpg)](http://www.youtube.com/watch?v=8Bwdcuxq4g)
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/l8Bwdcuxq4g/0.jpg)](http://www.youtube.com/watch?v=l8Bwdcuxq4g)
