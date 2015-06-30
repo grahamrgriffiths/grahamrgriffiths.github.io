@@ -130,7 +130,7 @@ We arrived around 18:30, said our goodbyes and headed our separate ways. I was f
 
 No time to sleep yet as I had celebratory diner plans with my housemates, eventually getting to bed after 23:00\. The next day, I woke up just before 12 - well rested and moving reasonably easily. Two days after completing the challenge, I was back on the bike and recovery was progressing well.
 
-## overall
+## Overall
 
 The overall experience was beyond all expectations. There is a saying in Welsh, 'wrth fy modd', which roughly translates to 'in my element'. I find this quite fitting to sum up how I felt throughout the trip.
 
@@ -138,4 +138,4 @@ The overall experience was beyond all expectations. There is a saying in Welsh, 
 
 My colleague was kind enough to lend me their GoPro for the trip, here is the compiled footage :-)  
 
-<object width="640" height="360"><param name="movie" value="//www.youtube.com/v/l8Bwdcuxq4g?version=3&amp;hl=en_GB&amp;rel=0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="//www.youtube.com/v/l8Bwdcuxq4g?version=3&amp;hl=en_GB&amp;rel=0" type="application/x-shockwave-flash" width="640" height="360" allowscriptaccess="always" allowfullscreen="true"></object>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/8Bwdcuxq4g/0.jpg)](http://www.youtube.com/watch?v=8Bwdcuxq4g)
