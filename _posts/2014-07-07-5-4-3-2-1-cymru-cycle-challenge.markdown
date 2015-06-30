@@ -3,7 +3,7 @@ layout: post
 title:  "5-4-3-2-1 Cymru Cycle Challenge"
 date:   2014-07-07 10:56:09
 categories: chairty
-tags: cycling charity
+tags: [cycling, charity]
 comments: true
 ---
 
