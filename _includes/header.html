@@ -9,8 +9,12 @@
           <ul role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
             {% for page in site.pages %}
               {% if page.title %}
-              <li><a itemprop="url" class="page-link" href="{{ page.url | prepend: site.baseurl }}">
-              <span itemprop="name">{{ page.title }}</span></a></li>
+                  {% if page.url contains 'tag' %}
+                    
+                  {% else %}
+                  <li><a itemprop="url" class="page-link" href="{{ page.url | prepend: site.baseurl }}">
+                  <span itemprop="name">{{ page.title }}</span></a></li>
+                  {% endif %}
               {% endif %}
             {% endfor %}
           </ul>
