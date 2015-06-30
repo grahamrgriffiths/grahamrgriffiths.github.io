@@ -1,0 +1,27 @@
+/* TEAM */
+
+                            
+Your title: Graham Griffiths
+
+                            
+Site: contact@grahamrgriffiths.com
+
+                            
+Twitter: grahamgriffiths
+
+                            
+Location: World wide web                        
+
+                            
+/* SITE */
+
+                            
+Last update: 2015/06/29 
+
+                            
+Standards: HTML5, CSS3,..
+
+                            
+Components: Modernizr, jQuery, etc.
+
+                        

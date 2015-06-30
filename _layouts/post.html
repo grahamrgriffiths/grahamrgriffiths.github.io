@@ -14,6 +14,10 @@ layout: default
   <div itemprop="articleBody"> 
     {{ content }}
   </div>
+
+ {% include tag_list.html %}
+<p id="post-meta">{{ tags_content }}</p>
+
   {{ % if page.comments % }}
   <footer>
     {% include disqus.html %}
