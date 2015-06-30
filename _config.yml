@@ -11,3 +11,4 @@ github_username:  grahamrgriffiths
 # Build settings
 markdown: kramdown
 highlighter: pygments
+permalink: /:year/:month/:day/:title
