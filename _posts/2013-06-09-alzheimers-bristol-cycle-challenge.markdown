@@ -4,6 +4,7 @@ title:  "Alzheimer's Bristol Cycle Challenge"
 date:   2013-06-09 10:56:09
 categories: chairty
 tags: cycling charity
+comments: true
 ---
 
 ## tl;dr
