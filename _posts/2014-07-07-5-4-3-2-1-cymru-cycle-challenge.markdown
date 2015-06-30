@@ -6,9 +6,10 @@ categories: chairty
 tags: cycling charity
 ---
 
-##tl;dr
+## tl;dr
 Between Friday 23rd May and Tuesday 27th May 2014, I was part of a 180 mile + cycle challenge from Netherlands to Belgium for Luca and St David's Hospice.
 <!--more-->
+
 ## Charities
 The St David's Hospice provide and continue to develop a free and comprehensive palliative care service of excellence throughout the unitary of authorities of Newport, Caerphilly, Torfaen and Monmouthshire for people, their families and carers facing a progressive life-threatening illness which is no longer curable. Visit [http://stdavidshospicecare.org](http://stdavidshospicecare.org) for more details.
 
