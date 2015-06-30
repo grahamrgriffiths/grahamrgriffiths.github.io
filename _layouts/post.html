@@ -14,7 +14,11 @@ layout: default
   <div itemprop="articleBody"> 
     {{ content }}
   </div>
-  
+  {{ % if page.comments % }}
+  <footer>
+    {% include disqus.html %}
+  </footer>
+  {{ endif }}
   </article>
 
 </div>
