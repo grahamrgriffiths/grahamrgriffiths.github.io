@@ -8,6 +8,7 @@ tags: cycling charity
 
 ## tl;dr
 On September 25th 2011, I completed an eighty five mile cycle in aid of Alzheimer's and raised a total of £272.00\. Thanks again to those who sponsored me.
+<!--more-->
 
 ## Background
 
