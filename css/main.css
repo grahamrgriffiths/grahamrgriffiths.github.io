@@ -156,6 +156,27 @@ nav a:hover {
    Author's custom styles
    ========================================================================== */
 
+/* http://ryanfait.com/html5-sticky-footer/ */
+* {
+   margin: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+.page-content {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -4em;
+}
+
+.footer, .push {
+    height: 4em;
+}
+/* End sticky footer */
+
 .icon > svg {
   display: inline-block;
   width: 16px;
