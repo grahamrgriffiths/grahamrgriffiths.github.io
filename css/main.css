@@ -157,10 +157,6 @@ nav a:hover {
    ========================================================================== */
 
 /* http://ryanfait.com/html5-sticky-footer/ */
-* {
-   margin: 0;
-}
-
 html, body {
     height: 100%;
 }
