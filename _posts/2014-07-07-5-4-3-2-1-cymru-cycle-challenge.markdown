@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "5-4-3-2-1 Cymru Cycle Challenge"
+date:   2014-07-07 10:56:09
+categories: chairty
+tags: cycling charity
+---
+
 ##tl;dr
 Between Friday 23rd May and Tuesday 27th May 2014, I was part of a 180 mile + cycle challenge from Netherlands to Belgium for Luca and St David's Hospice.
 
