@@ -19,7 +19,7 @@ layout: default
         </h2>
         </header>
         <section>
-          <p>{{ post.content | strip_html | truncatewords: 120 }}</p>
+          <p>{{ post.excerpt  | strip_html }}</p>
         </section>
         <footer>
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
