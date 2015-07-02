@@ -6,10 +6,14 @@ layout: default
             <div class="main wrapper clearfix">
 
     <aside>
-        <h3>tag cloud</h3>
-        {% for data_tag in site.data.tags %}
-            <a href="/tag/{{ data_tag.slug }}/">{{ data_tag.name }}</a>
-        {% endfor %}
+        {% if site.data.tags.size > 0 %}
+            <h3>tags</h3>
+            <ul>
+            {% for data_tag in site.data.tags %}
+                <li><a href="/tag/{{ data_tag.slug }}/">{{ data_tag.name }}</a></li>
+            {% endfor %}
+            </ul>
+        {% endif %}
     </aside>
 
     {% for post in site.posts %}
