@@ -4,8 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Welcome to my blog, built with [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+The theme is currently based on [HTML5 Boilerplate](https://html5boilerplate.com/) and is a rendition of the responsive theme from [Initializr](http://www.initializr.com/)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Everything you see here is generated from my [GitHub Repository](http://grahamrgriffiths.github.io)
+
+It's a work in progress, so it may change often. That's Agile for you though ;-)
