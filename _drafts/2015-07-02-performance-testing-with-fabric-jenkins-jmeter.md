@@ -53,10 +53,14 @@ The csv file just needs to exist in the correct website test folder, and be name
 
 ## Jenkins build
 The build takes three main parameters: users, loops, and the ramp up 
-period. It uses the git module to pull the latest code from a rhosted 
+period. It uses the git module to pull the latest code from a hosted 
 repository, then executes a fabric script using the shell command. 
 
-[Screenies] 
+![Parameterised Build]({{"/img/2015-07-02-performance-testing-with-fabric-jenkins-jmeter/jenkinsParametersjMeter.png" | prepend: site.baseurl | prepend: site.url }})
+
+![Git Configuration]({{"/img/2015-07-02-performance-testing-with-fabric-jenkins-jmeter/jenkinsGit.png" | prepend: site.baseurl | prepend: site.url }})
+
+![Execute Shell]({{"/img/2015-07-02-performance-testing-with-fabric-jenkins-jmeter/jenkinsShell.PNG" | prepend: site.baseurl | prepend: site.url }})
 
 The built in jMeter plugin provides some basic reporting graphs which are suprisingly useful.
 
