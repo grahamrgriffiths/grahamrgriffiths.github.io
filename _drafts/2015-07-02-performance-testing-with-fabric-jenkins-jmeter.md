@@ -62,6 +62,8 @@ The built in jMeter plugin provides some basic reporting graphs which are supris
 
 ![Response Graph]({{"/img/2015-07-02-performance-testing-with-fabric-jenkins-jmeter/responseTimeGraph.png" | prepend: site.baseurl | prepend: site.url }})
 
+This show's me how response time of a widely used page has improved per build, the jenkins builds detail the changes too.
+
 ## The fabric script
 The essence of this script is to run jmx files found in the directories 
 listed above. I use the command line arguments to setup parameters for 
