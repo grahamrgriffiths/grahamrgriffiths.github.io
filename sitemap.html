@@ -5,7 +5,7 @@ permalink: /sitemap/
 ---
 
 {% for post in site.posts %}
-  {% assign currentdate = post.date | date: "%B %Y" %}
+  {% assign currentdate = post.date | date: "%Y" %}
   {% if currentdate != date %}
     {% unless forloop.first %}</ul>{% endunless %}
     <h1 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h1>
