@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Welcome to my blog, built with [Jekyll](http://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
+Welcome to my blog, built with [Jekyll](http://jekyllrb.com/){:target="_blank"} and [GitHub Pages](https://pages.github.com/)
 
 The theme is currently based on [HTML5 Boilerplate](https://html5boilerplate.com/) and is a rendition of the responsive theme from [Initializr](http://www.initializr.com/)
 
