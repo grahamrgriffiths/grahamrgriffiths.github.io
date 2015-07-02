@@ -58,7 +58,9 @@ repository, then executes a fabric script using the shell command.
 
 [Screenies] 
 
-The built in jMeter plugin provides some basic reporting
+The built in jMeter plugin provides some basic reporting graphs which are suprisingly useful.
+
+![Response Graph][{{"img/2015-07-02-performance-testing-with-fabric-jenkins-jmeter/responseTimeGraph.png" | prepend: site.baseurl | prepend: site.url }}]
 
 ## The fabric script
 The essence of this script is to run jmx files found in the directories 
