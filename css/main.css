@@ -187,7 +187,7 @@ html, body {
 }
 
 
-.social-media-list a, ul.contact-list a {
+.social-media-list a, ul.contact-list a, aside a {
     text-decoration: none;
     color: #FFFFFF;
 }
