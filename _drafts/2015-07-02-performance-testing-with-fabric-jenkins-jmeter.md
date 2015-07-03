@@ -7,7 +7,7 @@ tags: [ci, performance, jmeter]
 comments: true 
 ---
 
-{% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ site.url }}/{{page.path}}/{% endcapture %}
+{% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ site.url }}/{{page.title}}/{% endcapture %}
 {% capture thumbURL %}{{imgURL}}/thumbs/{% endcapture %}
 
 ## tl;dr
