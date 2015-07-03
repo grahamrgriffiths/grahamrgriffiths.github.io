@@ -7,6 +7,9 @@ tags: [ci, performance, jmeter]
 comments: true 
 ---
 
+{% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ site.url }}/{{page.path}}/{% endcapture %}
+{% capture thumbURL %}{{imgURL}}/thumbs/{% endcapture %}
+
 ## tl;dr
 I had a suite of jMeter tests that needed to be automated, I used fabric 
 and jenkins to achieve this. 
