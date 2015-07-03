@@ -6,8 +6,6 @@ categories: jmeter
 tags: [ci, performance, jmeter] 
 comments: true 
 ---
-{{page.url}}
-
 {% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ page.url | | replace:'/','-' | remove_first: '-'}}/{% endcapture %}
 {% capture thumbURL %}{{imgURL}}thumbs/{% endcapture %}
 
