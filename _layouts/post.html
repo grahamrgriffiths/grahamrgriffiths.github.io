@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+{% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ site.url }}/{{page.path}}/{% endcapture %}
+{% capture thumbURL %}{{imgURL}}/thumbs/{% endcapture %}
+
 <div class="post">
   
   <article class="post-content" itemscope itemtype="http://schema.org/Article">
