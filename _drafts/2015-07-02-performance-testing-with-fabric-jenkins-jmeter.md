@@ -56,13 +56,13 @@ The build takes three main parameters: users, loops, and the ramp up
 period. It uses the git module to pull the latest code from a hosted 
 repository, then executes a fabric script using the shell command. 
 
-[View Example]({{"/img/2015-07-02-performance-testing-with-fabric-jenkins-jmeter/jenkinsParametersjMeter.png" | prepend: site.baseurl | prepend: site.url }}){: data-lightbox="jenkinsParametersjMeter"}{: data-title="Example of setting parameters for a jenkisn build"}
+[![View Parameterised Build Example]({{"jenkinsParametersjMeter.png" | prepend: thumbURL}} "View Parameterised Build Example")]]({{"/img/2015-07-02-performance-testing-with-fabric-jenkins-jmeter/jenkinsParametersjMeter.png" | prepend: site.baseurl | prepend: site.url }}){: data-lightbox="jenkinsParametersjMeter"}{: data-title="Example of setting parameters for a jenkisn build"}
 
-![Parameterised Build]({{"/img/2015-07-02-performance-testing-with-fabric-jenkins-jmeter/jenkinsParametersjMeter.png" | prepend: site.baseurl | prepend: site.url }})
+[View Parameterised Build Example]({{"/img/2015-07-02-performance-testing-with-fabric-jenkins-jmeter/jenkinsParametersjMeter.png" | prepend: site.baseurl | prepend: site.url }}){: data-lightbox="jenkinsParametersjMeter"}{: data-title="Example of setting parameters for a jenkisn build"}
 
-![Git Configuration]({{"/img/2015-07-02-performance-testing-with-fabric-jenkins-jmeter/jenkinsGit.png" | prepend: site.baseurl | prepend: site.url }})
+[View Git Configuration Example]({{"/img/2015-07-02-performance-testing-with-fabric-jenkins-jmeter/jenkinsGit.png" | prepend: site.baseurl | prepend: site.url }}){: data-lightbox="jenkinsParametersjMeter"}{: data-title="Example of git configuration for a jenkisn build"}
 
-![Execute Shell]({{"/img/2015-07-02-performance-testing-with-fabric-jenkins-jmeter/jenkinsShell.PNG" | prepend: site.baseurl | prepend: site.url }})
+[View Shell Execution Example]({{"/img/2015-07-02-performance-testing-with-fabric-jenkins-jmeter/jenkinsShell.png" | prepend: site.baseurl | prepend: site.url }}){: data-lightbox="jenkinsParametersjMeter"}{: data-title="Example of executing a shell script for a jenkisn build"}
 
 The built in jMeter plugin provides some basic reporting graphs which are suprisingly useful.
 
