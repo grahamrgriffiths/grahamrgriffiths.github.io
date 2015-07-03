@@ -60,15 +60,15 @@ The build takes three main parameters: users, loops, and the ramp up
 period. It uses the git module to pull the latest code from a hosted 
 repository, then executes a fabric script using the shell command. 
 
-[![View Parameterised Build Example]({{"jenkinsParametersjMeter.png" | prepend: thumbURL}} "View Parameterised Build Example")]({{"jenkinsParametersjMeter.png" | prepend: imgURL}}){: data-lightbox="jenkinsParametersjMeter"}{: data-title="Example of setting parameters for a jenkins build"}
+[![View Parameterised Build Example]({{"jenkinsParametersjMeter.jpg" | prepend: thumbURL}} "View Parameterised Build Example")]({{"jenkinsParametersjMeter.png" | prepend: imgURL}}){: data-lightbox="jenkinsParametersjMeter"}{: data-title="Example of setting parameters for a jenkins build"}
 
-[![View Git Configuration Example]({{"jenkinsGit.png" | prepend: thumbURL}} "View Parameterised Build Example")]({{"jenkinsGit.png" | prepend: imgURL}}){: data-lightbox="jenkinsGit"}{: data-title="Example of git configuration for a jenkins build"}
+[![View Git Configuration Example]({{"jenkinsGit.jpg" | prepend: thumbURL}} "View Parameterised Build Example")]({{"jenkinsGit.png" | prepend: imgURL}}){: data-lightbox="jenkinsGit"}{: data-title="Example of git configuration for a jenkins build"}
 
-[![View Shell Execution Example]({{"jenkinsShell.png" | prepend: thumbURL}} "View Parameterised Build Example")]({{"jenkinsShell.png" | prepend: imgURL}}){: data-lightbox="jenkinsShell"}{: data-title="Example of executing a shell script for a jenkins build"}
+[![View Shell Execution Example]({{"jenkinsShell.jpg" | prepend: thumbURL}} "View Parameterised Build Example")]({{"jenkinsShell.png" | prepend: imgURL}}){: data-lightbox="jenkinsShell"}{: data-title="Example of executing a shell script for a jenkins build"}
 
 The  jMeter plugin we use provides some basic reporting graphs which are useful.
 
-[![View Response Graph Example]({{"responseTimeGraph.png" | prepend: thumbURL}} "View Parameterised Build Example")]({{"responseTimeGraph.png" | prepend: imgURL}}){: data-lightbox="responseTimeGraph"}{: data-title="Example of response time graph from jenkins jMeter plugin"}
+[![View Response Graph Example]({{"responseTimeGraph.jpg" | prepend: thumbURL}} "View Parameterised Build Example")]({{"responseTimeGraph.png" | prepend: imgURL}}){: data-lightbox="responseTimeGraph"}{: data-title="Example of response time graph from jenkins jMeter plugin"}
 
 This show's me how response time of a widely used page has improved per build, the jenkins builds detail the changes too.
 
