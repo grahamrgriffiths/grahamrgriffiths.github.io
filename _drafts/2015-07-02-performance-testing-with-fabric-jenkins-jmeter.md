@@ -6,6 +6,10 @@ categories: jmeter
 tags: [ci, performance, jmeter] 
 comments: true 
 ---
+{{page.url}}
+
+{% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ page.url | | replace:'/','-' | remove_first: '-'}}/{% endcapture %}
+{% capture thumbURL %}{{imgURL}}thumbs/{% endcapture %}
 
 ## tl;dr
 I had a suite of jMeter tests that needed to be automated, I used fabric 
@@ -56,15 +60,15 @@ The build takes three main parameters: users, loops, and the ramp up
 period. It uses the git module to pull the latest code from a hosted 
 repository, then executes a fabric script using the shell command. 
 
-![Parameterised Build]({{"/img/2015-07-02-performance-testing-with-fabric-jenkins-jmeter/jenkinsParametersjMeter.png" | prepend: site.baseurl | prepend: site.url }})
+[![View Parameterised Build Example]({{"jenkinsParametersjMeter.png" | prepend: thumbURL}} "View Parameterised Build Example")]({{"jenkinsParametersjMeter.png" | prepend: imgURL}}){: data-lightbox="jenkinsParametersjMeter"}{: data-title="Example of setting parameters for a jenkins build"}
 
-![Git Configuration]({{"/img/2015-07-02-performance-testing-with-fabric-jenkins-jmeter/jenkinsGit.png" | prepend: site.baseurl | prepend: site.url }})
+[![View Git Configuration Example]({{"jenkinsGit.png" | prepend: thumbURL}} "View Parameterised Build Example")]({{"jenkinsGit.png" | prepend: imgURL}}){: data-lightbox="jenkinsGit"}{: data-title="Example of git configuration for a jenkins build"}
 
-![Execute Shell]({{"/img/2015-07-02-performance-testing-with-fabric-jenkins-jmeter/jenkinsShell.PNG" | prepend: site.baseurl | prepend: site.url }})
+[![View Shell Execution Example]({{"jenkinsShell.png" | prepend: thumbURL}} "View Parameterised Build Example")]({{"jenkinsShell.png" | prepend: imgURL}}){: data-lightbox="jenkinsShell"}{: data-title="Example of executing a shell script for a jenkins build"}
 
-The built in jMeter plugin provides some basic reporting graphs which are suprisingly useful.
+The  jMeter plugin we use provides some basic reporting graphs which are useful.
 
-![Response Graph]({{"/img/2015-07-02-performance-testing-with-fabric-jenkins-jmeter/responseTimeGraph.png" | prepend: site.baseurl | prepend: site.url }})
+[![View Response Graph Example]({{"responseTimeGraph.png" | prepend: thumbURL}} "View Parameterised Build Example")]({{"responseTimeGraph.png" | prepend: imgURL}}){: data-lightbox="responseTimeGraph"}{: data-title="Example of response time graph from jenkins jMeter plugin"}
 
 This show's me how response time of a widely used page has improved per build, the jenkins builds detail the changes too.
 
