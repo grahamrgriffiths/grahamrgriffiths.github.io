@@ -59,7 +59,7 @@ The build takes three main parameters: users, loops, and the ramp up
 period. It uses the git module to pull the latest code from a hosted 
 repository, then executes a fabric script using the shell command. 
 
-[![View Parameterised Build Example]({{"jenkinsParametersjMeter.png" | prepend: site.thumbURL}} "View Parameterised Build Example")]({{"jenkinsParametersjMeter.png" | prepend: site.imgURL}}){: data-lightbox="jenkinsParametersjMeter"}{: data-title="Example of setting parameters for a jenkisn build"}
+[![View Parameterised Build Example]({{"jenkinsParametersjMeter.png" | prepend: thumbURL}} "View Parameterised Build Example")]({{"jenkinsParametersjMeter.png" | prepend: imgURL}}){: data-lightbox="jenkinsParametersjMeter"}{: data-title="Example of setting parameters for a jenkisn build"}
 
 [View Parameterised Build Example]({{"/img/2015-07-02-performance-testing-with-fabric-jenkins-jmeter/jenkinsParametersjMeter.png" | prepend: site.baseurl | prepend: site.url }}){: data-lightbox="jenkinsParametersjMeter"}{: data-title="Example of setting parameters for a jenkisn build"}
 
