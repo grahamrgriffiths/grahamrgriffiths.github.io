@@ -5,10 +5,12 @@ layout: null
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 {% for page in site.pages %}
   {% if page.title %}
-  <loc>{{ page.url | prepend: site.baseurl }}</loc>
-  <lastmod>{{ site.time | date_to_rfc822 }}</lastmod>
-  <changefreq>weekly</changefreq>
-  <priority>0.5</priority>
+  <url>
+    <loc>{{ page.url | prepend: site.baseurl }}</loc>
+    <lastmod>{{ site.time | date_to_rfc822 }}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
   {% endif %}
 {% endfor %}  
 {% for post in site.posts %}
