@@ -19,7 +19,7 @@ Location: World wide web
 /* SITE */
 
                             
-Last update: 2015/06/29 
+Last update: {{ site.time | date_to_rfc822 }}
 
                             
 Standards: HTML5, CSS3,..
