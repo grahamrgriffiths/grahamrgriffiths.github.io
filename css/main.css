@@ -61,7 +61,7 @@ textarea {
 
 body {
     font: 16px/26px Helvetica, Helvetica Neue, Arial;
-    margin-bottom: 7em;
+    margin-bottom: 7.5em;
 }
 
 .wrapper {
@@ -163,7 +163,7 @@ nav a:hover {
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 7em;
+  height: 7.5em;
 }
 
 .icon > svg {
@@ -199,7 +199,7 @@ nav a:hover {
    ========================================================================== */
 
 @media (max-width:768px){ .footer{position:absolute;width:100%;} }
-@media (min-width:768px){ .footer{position:absolute;bottom:0;height:60px;width:100%;}}
+@media (min-width:768px){ .footer{position:absolute;bottom:0;height:7.5em;width:100%;}}
 
 @media only screen and (min-width: 480px) {
 
