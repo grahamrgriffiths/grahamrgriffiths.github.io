@@ -2,41 +2,37 @@
 layout: default
 ---
 
-<div class="main wrapper clearfix">
+<aside>
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+    {% if site.data.tags.size > 0 %}
+        <h3>tags</h3>
+        <ul>
+        {% for data_tag in site.data.tags %}
+            <li><a href="/tag/{{ data_tag.slug }}/">{{ data_tag.name }}</a></li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+</aside>
 
-    <aside>
-        {% if site.data.tags.size > 0 %}
-            <h3>tags</h3>
-            <ul>
-            {% for data_tag in site.data.tags %}
-                <li><a href="/tag/{{ data_tag.slug }}/">{{ data_tag.name }}</a></li>
-            {% endfor %}
-            </ul>
-        {% endif %}
-    </aside>
+{% for post in site.posts %}
+  <article itemscope itemtype="http://schema.org/Article">
+   <header>
+    <h2>
+      <a itemprop="url" class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+      <span itemprop="name">{{ post.title }}</span></a>
+    </h2>
+    </header>
+    <section>
+      <p>{{ post.excerpt  | strip_html | remove: 'tl;dr' }}</p>
+    </section>
+    <footer>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+      <meta itemprop="dateCreated" content="{{ post.date | date: "%Y%m%-d" }}">
+    </footer>
 
-    {% for post in site.posts %}
-      <article itemscope itemtype="http://schema.org/Article">
-       <header>
-        <h2>
-          <a itemprop="url" class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-          <span itemprop="name">{{ post.title }}</span></a>
-        </h2>
-        </header>
-        <section>
-          <p>{{ post.excerpt  | strip_html | remove: 'tl;dr' }}</p>
-        </section>
-        <footer>
-          <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-          <meta itemprop="dateCreated" content="{{ post.date | date: "%Y%m%-d" }}">
-        </footer>
+  </article>
+{% endfor %}
 
-      </article>
-    {% endfor %}
-
-
-  </div> <!-- #main -->
-
-      <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+      
 
 
