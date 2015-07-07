@@ -61,7 +61,6 @@ textarea {
 
 body {
     font: 16px/26px Helvetica, Helvetica Neue, Arial;
-    margin-bottom: 7.5em;
 }
 
 .wrapper {
@@ -194,6 +193,10 @@ nav a:hover {
   column-width: 200px;
 }
 
+.push {
+    margin-top: 7.5em;
+}
+    
 /* ==========================================================================
    Media Queries
    ========================================================================== */
@@ -204,12 +207,16 @@ nav a:hover {
         width: 100%;
         height:16.5em;
     } 
-    .push {
-        margin-top: 7.5em;
-    }
 }
 /* footer normal */
-@media (min-width:769px){ .footer{position:absolute;bottom:0;height:7.5em;width:100%;}}
+@media (min-width:768px){ 
+    .footer{
+        position:absolute;
+        bottom:0;
+        height:7.5em;
+        width:100%;
+    }
+}
 
 @media only screen and (min-width: 480px) {
 
