@@ -61,7 +61,7 @@ textarea {
 
 body {
     font: 16px/26px Helvetica, Helvetica Neue, Arial;
-    margin-bottom: 10em;
+    margin-bottom: 7em;
 }
 
 .wrapper {
@@ -163,7 +163,7 @@ nav a:hover {
   bottom: 0;
   width: 100%;
   /* Set the fixed height of the footer here */
-  height: 60px;
+  height: 7em;
 }
 
 .icon > svg {
