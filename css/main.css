@@ -4,6 +4,8 @@ html {
     color: #222;
     font-size: 1em;
     line-height: 1.4;
+    position: relative;
+    min-height: 100%;
 }
 
 ::-moz-selection {
@@ -59,6 +61,7 @@ textarea {
 
 body {
     font: 16px/26px Helvetica, Helvetica Neue, Arial;
+    margin-bottom: 10em;
 }
 
 .wrapper {
@@ -155,24 +158,13 @@ nav a:hover {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-
-/* http://ryanfait.com/html5-sticky-footer/ 
-html, body {
-    height: 100%;
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
 }
-
-.contentWrapper {
-    min-height: 100%;
-    height: auto !important;
-    height: 100%;
-    margin: 0 auto -8em;
-}
-
-.footer, .push {
-    height: 8em;
-}
-*/
-/* End sticky footer */
 
 .icon > svg {
   display: inline-block;
@@ -205,6 +197,9 @@ html, body {
 /* ==========================================================================
    Media Queries
    ========================================================================== */
+
+@media (max-width:768px){ .footer{position:absolute;width:100%;} }
+@media (min-width:768px){ .footer{position:absolute;bottom:0;height:60px;width:100%;}}
 
 @media only screen and (min-width: 480px) {
 
