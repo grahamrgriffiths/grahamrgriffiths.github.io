@@ -197,8 +197,17 @@ nav a:hover {
 /* ==========================================================================
    Media Queries
    ========================================================================== */
-
-@media (max-width:768px){ .footer{position:absolute;width:100%;} }
+//sticky footer mobile
+@media (max-width:768px){ 
+    .footer{
+        position:absolute;
+        width:100%;
+    } 
+    .push {
+        margin-top: 7.5em;
+    }
+}
+//footer normal
 @media (min-width:768px){ .footer{position:absolute;bottom:0;height:7.5em;width:100%;}}
 
 @media only screen and (min-width: 480px) {
