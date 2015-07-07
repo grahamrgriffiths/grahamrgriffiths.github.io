@@ -209,7 +209,7 @@ nav a:hover {
     }
 }
 /* footer normal */
-@media (min-width:768px){ .footer{position:absolute;bottom:0;height:7.5em;width:100%;}}
+@media (min-width:769px){ .footer{position:absolute;bottom:0;height:7.5em;width:100%;}}
 
 @media only screen and (min-width: 480px) {
 
