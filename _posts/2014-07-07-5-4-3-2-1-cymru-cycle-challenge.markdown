@@ -26,7 +26,7 @@ I've been a casual cyclist since I learned how to ride a bike, but I started to 
 
 The yellow markers are comments about certain days. The larger block of red marks when the challenge took place, I kept recording the mileage post challenge until I broke the 2000 mile mark. Unsurprisingly, Monday was not a good day for high mileage.
 
-[![Training Record](//farm3.staticflickr.com/2912/14312583409_96a8afdc51_b.jpg "View My Training Record")](//farm3.staticflickr.com/2912/14312583409_96a8afdc51_b.jpg){: data-lightbox="training-record"}{: data-title="My Training Record"}
+[![Training Record](//farm3.staticflickr.com/2912/14312583409_96a8afdc51_b.jpg "View My Training Record")](//farm3.staticflickr.com/2912/14312583409_96a8afdc51_b.jpg){: data-lightbox="training-record"}{: data-title="My Training Record"}{: class="responsive"}
 
 As part of the training, I was not drinking alcohol - with a few exceptions, such as my friend's stag party. I also took part in the Big Bike ride for St Davids Hopsice - an 80 mile cycle from Newport to Monmouth, and back - with a few places in between.
 
@@ -38,7 +38,7 @@ I didn't have a road bike when I started, but I was able to get one through the 
 
 [![Hybrid](//farm4.staticflickr.com/3855/14490600042_d017067b6f_n.jpg "View My Hybrid")](//c2.staticflickr.com/4/3855/14490600042_d017067b6f_c.jpg){: data-lightbox="hybrid"}{: data-title="My Hybrid"}
 
-[![Road bike](//farm3.staticflickr.com/2936/14488463931_26e7663e62_n.jpg "View My Road Bike")](//c1.staticflickr.com/3/2936/14488463931_26e7663e62_b.jpg){: data-lightbox="road-bike"}{: data-title="My Road bike"}
+[![Road bike](//farm3.staticflickr.com/2936/14488463931_26e7663e62_n.jpg "View My Road Bike")](//c1.staticflickr.com/3/2936/14488463931_26e7663e62_b.jpg){: data-lightbox="road-bike"}{: data-title="My Road Bike"}
 
 We were instructed to drop our bikes off at CF3 bar and kitchen on Wednesday 21st May, as I have no other means of transport - this was a challenge in itself. Thankfully one of my friends agreed to pick me up after work. It felt strange to leave my bike, but I knew it would be safe in the van.
 
