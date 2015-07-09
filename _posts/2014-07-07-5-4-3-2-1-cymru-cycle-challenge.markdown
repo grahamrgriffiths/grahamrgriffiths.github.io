@@ -26,7 +26,7 @@ I've been a casual cyclist since I learned how to ride a bike, but I started to 
 
 The yellow markers are comments about certain days. The larger block of red marks when the challenge took place, I kept recording the mileage post challenge until I broke the 2000 mile mark. Unsurprisingly, Monday was not a good day for high mileage.
 
-[![Training Record](//farm3.staticflickr.com/2912/14312583409_96a8afdc51_b.jpg "View My Training Record")](//farm3.staticflickr.com/2912/14312583409_96a8afdc51_b.jpg){: data-lightbox="training-record"}{: data-title="My Training Record"}{: class="responsive"}
+[![Training Record](//farm3.staticflickr.com/2912/14312583409_96a8afdc51_b.jpg "View My Training Record"){: class="responsive"}](//farm3.staticflickr.com/2912/14312583409_96a8afdc51_b.jpg){: data-lightbox="training-record"}{: data-title="My Training Record"}
 
 As part of the training, I was not drinking alcohol - with a few exceptions, such as my friend's stag party. I also took part in the Big Bike ride for St Davids Hopsice - an 80 mile cycle from Newport to Monmouth, and back - with a few places in between.
 
