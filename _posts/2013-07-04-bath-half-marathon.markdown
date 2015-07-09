@@ -31,7 +31,7 @@ Annoyingly, I suffered from knee problems the second time around. This is quite 
 I trained on reasonably flat routes, Bath is not flat. Thankfully, I had trained enough to overcome the elevation on the course.
 
 Below is the map we were provided for the event.
-[![bathhalf](http://farm8.staticflickr.com/7441/9210866990_5bb7f72310_c.jpg)](http://www.flickr.com/photos/grahamrgriffiths/9210866990/ "bathhalf by grahamgriffiths, on Flickr")
+[![The Route](//c2.staticflickr.com/8/7441/9210866990_5bb7f72310_n.jpg "View My Training Record"){: class="responsive"}](//c2.staticflickr.com/8/7441/9210866990_5bb7f72310_b.jpg){: data-lightbox="the-route"}{: data-title="Route Map for Bath Half Marathon"}
 
 ## Post-Race
 After the race I had a leg massage, and would recommend that you do the same. I was hungry but couldn't each much. Refuelling consisted of flap jacks, soup and a pint of orange juice.
