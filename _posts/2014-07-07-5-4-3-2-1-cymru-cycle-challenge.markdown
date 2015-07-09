@@ -26,7 +26,7 @@ I've been a casual cyclist since I learned how to ride a bike, but I started to 
 
 The yellow markers are comments about certain days. The larger block of red marks when the challenge took place, I kept recording the mileage post challenge until I broke the 2000 mile mark. Unsurprisingly, Monday was not a good day for high mileage.
 
-[![Training Record](https://farm3.staticflickr.com/2912/14312583409_96a8afdc51_b.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14312583409 "profile by grahamgriffiths, on Flickr")  
+[![Training Record](//farm3.staticflickr.com/2912/14312583409_96a8afdc51_b.jpg "View My Training Record")](//c1.staticflickr.com/3/2912/14312583409_96a8afdc51_b.jpg){: data-lightbox="training-record"}{: data-title="My training record for 5-4-3-2-1 Cycle Challenge 2014"}
 
 As part of the training, I was not drinking alcohol - with a few exceptions, such as my friend's stag party. I also took part in the Big Bike ride for St Davids Hopsice - an 80 mile cycle from Newport to Monmouth, and back - with a few places in between.
 
@@ -36,7 +36,7 @@ My diet didn't change much, apart from the fact that I needed to eat three times
 
 I didn't have a road bike when I started, but I was able to get one through the cycle to work scheme. Both bikes used for training are below, you can probably guess which one I prefer to ride ;)
 
-[![Hybrid](https://farm4.staticflickr.com/3855/14490600042_d017067b6f_n.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14490600042 "WP_000058 by Graham Griffiths, on Flickr")
+[![Hybrid](//farm4.staticflickr.com/3855/14490600042_d017067b6f_n.jpg "View My Hybrid")](//c2.staticflickr.com/4/3855/14490600042_d017067b6f_c.jpg){: data-lightbox="training-record"}{: data-title="My Hybrid"}
 
 [![Road bike](https://farm3.staticflickr.com/2936/14488463931_26e7663e62_n.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14488463931 "WP_000058 by Graham Griffiths, on Flickr")
 
