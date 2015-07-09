@@ -12,14 +12,14 @@ this post explains my solution.
 <!--more-->
 
 ## Rationalle
-I didn’t want to spend too much time playing with services like https://codeship.com/
+I didn’t want to spend too much time playing with services like [https://codeship.com/](https://codeship.com/){:target="_blank"} 
 As they had ssh access to the server, and git installed - I figured a script would be the easiest way to go.
 
 ## Approach
 I’ve used python fabric for ci deploys before, but that seemed a tad excessive so I decided to use a bash script.
 
 First, authenticate git by following the instructions here:
-https://help.github.com/articles/generating-ssh-keys/
+[https://help.github.com/articles/generating-ssh-keys/](https://help.github.com/articles/generating-ssh-keys/){:target="_blank"} 
 
 Then make a note of directories
 
@@ -56,14 +56,22 @@ ssh-add ~/.ssh/git_rsa
 ## A note on permissions
 Web servers should have 755 on folders and 644 on directories, this is easily fixed with chmod and find.
 
-#Find and change recursively on directories
 {% highlight bash %} 
+#Find and change recursively on directories
 find $deployFolder -type d -exec chmod 755 {} +
 {% endhighlight %} 
 
-#Find and change recursively on files
 {% highlight bash %} 
+#Find and change recursively on files
 find $deployFolder -type f -exec chmod 644 {} +
+{% endhighlight %} 
+
+## A note on symbolic links
+If you're hosting provider doesn't like symbolic links, then use the following instead
+
+{% highlight bash %} 
+rm -r $webRoot/*
+cp -R $deployFolder/public_html $webRoot/.
 {% endhighlight %} 
 
 Here is the final script:
@@ -80,11 +88,3 @@ ln -sfn webDeploys/WORKINGTIMESTAMP/public_html/ /home/user/public_html
 {% endhighlight %} 
 
 Done - in about 10 minutes too.
-
-## Sym links
-If you're hosting provider doesn't like sym links, then use the following instead
-
-{% highlight bash %} 
-rm -r $webRoot/*
-cp -R $deployFolder/public_html $webRoot/.
-{% endhighlight %} 
