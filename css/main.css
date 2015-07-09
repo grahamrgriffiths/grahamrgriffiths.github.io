@@ -403,7 +403,7 @@ nav a:hover {
         page-break-inside: avoid;
     }
 
-    img {
+    img.responsive {
         max-width: 100% !important;
         display: block;
         height: auto;
