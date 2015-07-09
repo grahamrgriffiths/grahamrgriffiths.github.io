@@ -17,13 +17,14 @@ Cycling has been a personal hobby of mine from a young age. Before training prop
 
 ## The bike
 
-I started off with a mountain bike, but switched to a road bike mid-way through the training.![bike](http://farm8.staticflickr.com/7410/8994832198_a8dc1c47ef.jpg)
+I started off with a mountain bike, but switched to a road bike mid-way through the training.
+[![Bike](//c2.staticflickr.com/8/7410/8994832198_a8dc1c47ef_n.jpg "My first road bike")](//c2.staticflickr.com/8/7410/8994832198_a8dc1c47ef.jpg){: data-lightbox="bike"}{: data-title="My First Road Bike"}
 
 ## Training
 
 I signed up to the challenge nine weeks before it was due to start. I didn't pre-set myself any weekly mileage goals, but I wanted to get close to the eighty five mile distance. Prior to the challenge, the furthest I had cycled was sixty miles. Below is a record of my mileage.
 
-[![trainingRecord](http://farm8.staticflickr.com/7442/8994055455_673a602ff1_c.jpg)](http://www.flickr.com/photos/grahamrgriffiths/8994055455/ "trainingRecord by grahamgriffiths, on Flickr")
+[![Training Record](//c2.staticflickr.com/8/7442/8994055455_673a602ff1_n.jpg "Training Record")](//c2.staticflickr.com/8/7442/8994055455_673a602ff1_b.jpg){: data-lightbox="bike"}{: data-title="My Training Record"}
 
 At the time of training, I wasn't in University but I was employed temporarily for 7 hours a day from August onwards. The second week of training is me cycling to work and back during the week, with a short trip on the Saturday.
 
@@ -39,11 +40,10 @@ The route tracked the [Avon cycleway (regional route 10)](http://www.southglos.i
 
 This is the map we were given for the event, apparently its copyright Alzheimer's.
 
-[![bristolcyclechallengemap](http://farm9.staticflickr.com/8134/8993883061_dcbde3d8e0_b.jpg)](http://www.flickr.com/photos/grahamrgriffiths/8993883061/ "bristolcyclechallengemap by grahamgriffiths, on Flickr")
+[![The Route](//c1.staticflickr.com/9/8134/8993883061_dcbde3d8e0_n.jpg "The Route")](//c1.staticflickr.com/9/8134/8993883061_dcbde3d8e0_c.jpg){: data-lightbox="route"}{: data-title="Route Map"}
 
 This is the profile we were given for the event.
-
-[![profile](http://farm4.staticflickr.com/3833/8993911833_9655ef60c8_b.jpg)](http://www.flickr.com/photos/grahamrgriffiths/8993911833/ "profile by grahamgriffiths, on Flickr")
+[![The Profile](//c2.staticflickr.com/4/3833/8993911833_9655ef60c8_n.jpg "The Profile")](//c2.staticflickr.com/4/3833/8993911833_9655ef60c8_b.jpg){: data-lightbox="profile"}{: data-title="Route Profile"}
 
 There were two water stops on the route, these included refreshments such as jelly beans, bananas, tracker bars and other goodies. We also stopped for lunch near Saltford, where sandwiches and hot drinks were provided.
 
