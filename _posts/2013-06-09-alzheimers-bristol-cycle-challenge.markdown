@@ -18,6 +18,7 @@ Cycling has been a personal hobby of mine from a young age. Before training prop
 ## The bike
 
 I started off with a mountain bike, but switched to a road bike mid-way through the training.
+
 [![Bike](//c2.staticflickr.com/8/7410/8994832198_a8dc1c47ef_n.jpg "My first road bike")](//c2.staticflickr.com/8/7410/8994832198_a8dc1c47ef.jpg){: data-lightbox="bike"}{: data-title="My First Road Bike"}
 
 ## Training
