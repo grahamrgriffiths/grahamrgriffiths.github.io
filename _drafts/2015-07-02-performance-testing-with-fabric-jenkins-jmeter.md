@@ -10,7 +10,7 @@ comments: true
 {% capture thumbURL %}{{imgURL}}thumbs/{% endcapture %}
 
 ## tl;dr
-I had a suite of jMeter tests that needed to be automated, I used fabric 
+I had a suite of jMeter tests that needed to be automated as part of a continuous integration setup, I used fabric 
 and jenkins to achieve this. 
 <!--more-->
 
