@@ -74,7 +74,7 @@ rm -r $webRoot/*
 cp -R $deployFolder/public_html $webRoot/.
 {% endhighlight %} 
 
-Here is the final script:
+## The Resulting Script
 {% gist grahamrgriffiths/61552cffa2f88a749236 %}
 
 We’re all set to run
