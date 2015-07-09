@@ -26,7 +26,7 @@ I've been a casual cyclist since I learned how to ride a bike, but I started to 
 
 The yellow markers are comments about certain days. The larger block of red marks when the challenge took place, I kept recording the mileage post challenge until I broke the 2000 mile mark. Unsurprisingly, Monday was not a good day for high mileage.
 
-[![Training Record](https://farm3.staticflickr.com/2912/14312583409_96a8afdc51_b.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14312583409 "profile by grahamgriffiths, on Flickr")  
+[![Training Record](//farm3.staticflickr.com/2912/14312583409_96a8afdc51_b.jpg "View My Training Record")](//farm3.staticflickr.com/2912/14312583409_96a8afdc51_b.jpg){: data-lightbox="training-record"}{: data-title="My Training Record"}
 
 As part of the training, I was not drinking alcohol - with a few exceptions, such as my friend's stag party. I also took part in the Big Bike ride for St Davids Hopsice - an 80 mile cycle from Newport to Monmouth, and back - with a few places in between.
 
@@ -36,15 +36,13 @@ My diet didn't change much, apart from the fact that I needed to eat three times
 
 I didn't have a road bike when I started, but I was able to get one through the cycle to work scheme. Both bikes used for training are below, you can probably guess which one I prefer to ride ;)
 
-[![Hybrid](https://farm4.staticflickr.com/3855/14490600042_d017067b6f_n.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14490600042 "WP_000058 by Graham Griffiths, on Flickr")
+[![Hybrid](//farm4.staticflickr.com/3855/14490600042_d017067b6f_n.jpg "View My Hybrid")](//c2.staticflickr.com/4/3855/14490600042_d017067b6f_c.jpg){: data-lightbox="hybrid"}{: data-title="My Hybrid"}
 
-[![Road bike](https://farm3.staticflickr.com/2936/14488463931_26e7663e62_n.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14488463931 "WP_000058 by Graham Griffiths, on Flickr")
-
-
+[![Road bike](//farm3.staticflickr.com/2936/14488463931_26e7663e62_n.jpg "View My Road Bike")](//c1.staticflickr.com/3/2936/14488463931_26e7663e62_b.jpg){: data-lightbox="road-bike"}{: data-title="My Road bike"}
 
 We were instructed to drop our bikes off at CF3 bar and kitchen on Wednesday 21st May, as I have no other means of transport - this was a challenge in itself. Thankfully one of my friends agreed to pick me up after work. It felt strange to leave my bike, but I knew it would be safe in the van.
 
-[![WP_20140521_001](https://farm6.staticflickr.com/5077/14312661948_e61f435602.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14312661948 "WP_20140521_001 by Graham Griffiths, on Flickr")
+[![Bike In Van](//c2.staticflickr.com/6/5077/14312661948_e61f435602_n.jpg "Bike In Van")](//c2.staticflickr.com/6/5077/14312661948_e61f435602_b.jpg){: data-lightbox="bike-in-van"}{: data-title="My Road bike loaded up and ready to go"}
 
 ## Equipment and support
 
@@ -54,21 +52,22 @@ I was carrying a mini pump, bike tools, my phone, spare inner tubes, cO2 caniste
 
 On Friday the 23rd, we had a coach from Cardiff to Bristol airport scheduled to leave at 13:00 - prompt. I had left my packing until the morning, but made it on time. On arrival to the airport, we checked in and went through passport control.
 
-[![WP_20140523_002](https://farm6.staticflickr.com/5565/14305243968_b41760992e_n.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14305243968 "coach by Graham Griffiths, on Flickr")
-
-[![WP_20140523_003](https://farm4.staticflickr.com/3880/14468740756_1ae2484bfd_n.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14468740756 "WP_20140523_003 by Graham Griffiths, on Flickr")
+[![On the Bus](//c2.staticflickr.com/6/5565/14305243968_b41760992e_n.jpg "On the Bus")](//c2.staticflickr.com/6/5565/14305243968_b41760992e_b.jpg){: data-lightbox="travel"}{: data-title="Everyone on the bus and ready to go"}
 
 At this point, there was an announcement for me to go back to the check in desks. Apparently they are a bit sensitive to cO2 canisters in your suitcase, before you ask - they're for quickly inflating tyres post puncture repair. Once the confusion was cleared up, I was allowed back through the passport control.
 
+[![On the Plane](//c2.staticflickr.com/4/3880/14468740756_1ae2484bfd_n.jpg "On the Plane")](//c2.staticflickr.com/4/3880/14468740756_1ae2484bfd_b.jpg){: data-lightbox="travel"}{: data-title="On the plane and ready to fly"}
+
 The flight took roughly the same time as the coach trip, and it wasn't far from Schipol to The Hague. We had the first night to ourselves, so a few of us decided to grab some food and take a stroll along the beach.
 
-[![WP_20140523_006](https://farm3.staticflickr.com/2903/14511912033_20287accaf_n.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14511912033 "WP_20140523_006 by Graham Griffiths, on Flickr")
+[![Off the Plane](//c1.staticflickr.com/3/2903/14511912033_20287accaf_n.jpg "At the airport")](//c1.staticflickr.com/3/2903/14511912033_20287accaf_b.jpg){: data-lightbox="Schipol"}{: data-title="Landed safely at Schipol"}
 
-[![WP_20140523_007](https://farm4.staticflickr.com/3855/14305341007_8ba77f9655_n.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14305341007 "WP_20140523_007 by Graham Griffiths, on Flickr")
+[![At Schipol](//c2.staticflickr.com/4/3855/14305341007_8ba77f9655_n.jpg "In the airport")](//c2.staticflickr.com/4/3855/14305341007_8ba77f9655_b.jpg){: data-lightbox="Schipol"}{: data-title="Finding our way to the coach"}
 
-[![WP_20140523_018](https://farm4.staticflickr.com/3855/14490570014_f749e0d59b_n.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14490570014 "WP_20140523_018 by Graham Griffiths, on Flickr")
 
-[![WP_20140523_016](https://farm4.staticflickr.com/3892/14305341987_01ebc238a8_n.jpg)](https://www.flickr.com/photos/grahamrgriffiths/14305341987 "WP_20140523_016 by Graham Griffiths, on Flickr")
+[![On Beach](//c2.staticflickr.com/4/3855/14490570014_f749e0d59b_n.jpg "On the beach")](//c2.staticflickr.com/4/3855/14490570014_f749e0d59b_b.jpg){: data-lightbox="beach"}{: data-title="Chilling out on the beach"}
+
+[![Beach Sunset](//c2.staticflickr.com/4/3892/14305341987_01ebc238a8_n.jpg "Beach sunset")](//c2.staticflickr.com/4/3892/14305341987_01ebc238a8_b.jpg){: data-lightbox="beach"}{: data-title="Sunset :-)"}
 
 ## Day one - feeling nervous and excited
 
