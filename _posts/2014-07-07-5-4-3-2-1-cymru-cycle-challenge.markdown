@@ -26,7 +26,7 @@ I've been a casual cyclist since I learned how to ride a bike, but I started to 
 
 The yellow markers are comments about certain days. The larger block of red marks when the challenge took place, I kept recording the mileage post challenge until I broke the 2000 mile mark. Unsurprisingly, Monday was not a good day for high mileage.
 
-[![Training Record](//farm3.staticflickr.com/2912/14312583409_96a8afdc51_b.jpg "View My Training Record"){: class="responsive"}](//farm3.staticflickr.com/2912/14312583409_96a8afdc51_b.jpg){: data-lightbox="training-record"}{: data-title="My Training Record"}
+[![Training Record](//c1.staticflickr.com/3/2912/14312583409_96a8afdc51_n.jpg "View My Training Record"){: class="responsive"}](//farm3.staticflickr.com/2912/14312583409_96a8afdc51_b.jpg){: data-lightbox="training-record"}{: data-title="My Training Record"}
 
 As part of the training, I was not drinking alcohol - with a few exceptions, such as my friend's stag party. I also took part in the Big Bike ride for St Davids Hopsice - an 80 mile cycle from Newport to Monmouth, and back - with a few places in between.
 
@@ -72,6 +72,7 @@ The flight took roughly the same time as the coach trip, and it wasn't far from 
 ## Day one - feeling nervous and excited
 
 The first day took us from The Hague to Burgh Haamstede, passing through Scheveningen, Massluis Rozenburg, and Goederede.
+
 [![Starting Day 1](//c2.staticflickr.com/4/3884/14305311220_daeccb17c9_n.jpg "Starting Day 1")](//c1.staticflickr.com/3/2895/14511952973_2b7b905f4e_z.jpg){: data-lightbox="day1-start"}{: data-title="Starting Day 1"}
 
 We followed the coast between Scheveningen down to Hoek van Holland, at which point we followed the canal to Maassluis - where we had a short ferry trip. From here we headed to Brielle, over a stunning dam and into Goedereede.
