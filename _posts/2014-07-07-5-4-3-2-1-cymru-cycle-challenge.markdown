@@ -151,4 +151,4 @@ The overall experience was beyond all expectations. There is a saying in Welsh, 
 
 My colleague was kind enough to lend me their GoPro for the trip, here is the compiled footage :-)  
 
-[![Youtube footage](http://img.youtube.com/vi/l8Bwdcuxq4g/0.jpg){: style="width:50%"}](http://www.youtube.com/watch?v=l8Bwdcuxq4g){: taregt="_blank"}
+[![Youtube footage](http://img.youtube.com/vi/l8Bwdcuxq4g/0.jpg){: style="width:50%"}](http://www.youtube.com/watch?v=l8Bwdcuxq4g){: target="_blank"}
