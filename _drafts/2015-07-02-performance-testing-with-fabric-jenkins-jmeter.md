@@ -47,12 +47,16 @@ csv contains a URL to test, and a value to check on the page.
 
 [![View CSV Settings in jMeter]({{"csvSetting2.jpg" | prepend: thumbURL}} "View CSV Settings in jMeter")]({{"csvSetting2.png" | prepend: imgURL}}){: data-lightbox="csv"}{: data-title="Setting up CSV in jMeter"}
 
-[Links to test and sample CSV] 
+Notice the variable names, url_key,text_to_test
 
-user_login.jmx is used for testing the account sections of our sites, it's a test that carries out 
-a post request to the login form of a web application. 
+These are the values that jMeter expects to find in the csv for example
+{% highlight csv %} 
+/about, about our site
+{% endhighlight %} 
 
-[Link to generic login test] 
+[View the jMeter test for this](https://gist.githubusercontent.com/grahamrgriffiths/91db8bb3cc9c244346a0/raw/d8cb9438dce79cc8beb5c95b186fddae25cfa358/view_page.jmx){:target="_blank"}
+
+[user_login.jmx](https://gist.githubusercontent.com/grahamrgriffiths/b4197d1aa8c5548d4ab4/raw/f2de0bf9d57b10558171c17de082403b72c40287/user_login.jmx){:target="_blank"} is used for testing the account sections of our sites, it's a test that carries out a post request to the login form of a web application. 
 
 In the fabric script, I set it up so that any test can use a csv data set. 
 The csv file just needs to exist in the correct website test folder, and be named after the test file.
