@@ -50,7 +50,7 @@ csv contains a URL to test, and a value to check on the page.
 Notice the variable names, url_key,text_to_test
 
 These are the values that jMeter expects to find in the csv for example
-{% highlight csv %} 
+{% highlight asm %} 
 /about, about our site
 {% endhighlight %} 
 
