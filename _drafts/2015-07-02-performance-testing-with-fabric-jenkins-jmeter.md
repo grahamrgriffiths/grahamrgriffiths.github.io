@@ -43,7 +43,11 @@ As you may have geussed, view_page.jmx and view_page.csv are releated.
 The .jmx is a jmeter test that relies on the csv to run the tests. The 
 csv contains a URL to test, and a value to check on the page. 
 
-[Screen Capture] [Links to test and sample CSV] 
+[![View CSV Settings in jMeter]({{"csvSetting1.jpg" | prepend: thumbURL}} "View CSV Settings in jMeter")]({{"csvSetting1.png" | prepend: imgURL}}){: data-lightbox="csv"}{: data-title="Setting up CSV in jMeter"}
+
+[![View CSV Settings in jMeter]({{"csvSetting2.jpg" | prepend: thumbURL}} "View CSV Settings in jMeter")]({{"csvSetting2.png" | prepend: imgURL}}){: data-lightbox="csv"}{: data-title="Setting up CSV in jMeter"}
+
+[Links to test and sample CSV] 
 
 user_login.jmx is used for testing the account sections of our sites, it's a test that carries out 
 a post request to the login form of a web application. 
