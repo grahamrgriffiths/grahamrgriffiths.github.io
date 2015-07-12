@@ -1,10 +1,12 @@
 {% capture shareURL %}{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endcapture %}
 
 <!-- Twitter -->
-<a target="_blank" href="https://twitter.com/intent/tweet?text={{shareURL}}"><i class="fa fa-twitter"></i></a></a>
+<a target="_blank" title="Tweet" href="https://twitter.com/intent/tweet?text={{shareURL}}"><i class="fa fa-twitter"></i></a></a>
 <!-- Google -->
-<a target="_blank" href="https://plus.google.com/share?url={{shareURL}}"><i class="fa fa-google-plus"></i></a></a>
+<a target="_blank" title="Share on Google+" href="https://plus.google.com/share?url={{shareURL}}"><i class="fa fa-google-plus"></i></a></a>
 <!-- Hacker news -->
-<a target="_blank" href="http://news.ycombinator.com/submitlink?u={{shareURL}}"><i class="fa fa-hacker-news"></i></a>
+<a target="_blank" title="Post to hacker news" href="http://news.ycombinator.com/submitlink?u={{shareURL}}"><i class="fa fa-hacker-news"></i></a>
 <!-- facebook -->
-<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{shareURL}}"><i class="fa fa-facebook-official"></i></a>
+<a target="_blank" title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u={{shareURL}}"><i class="fa fa-facebook-official"></i></a>
+<!-- instapaper -->
+<a target="_blank" title="Save on instapaper" href="http://www.instapaper.com/hello2?url={{shareURL}}&t={{ page.title }}"><i class="fa fa-newspaper-o"></i></a>
