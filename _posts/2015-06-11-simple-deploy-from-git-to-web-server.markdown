@@ -2,7 +2,7 @@
 layout: post
 title:  "Simple deploy from git on a web server that has ssh access"
 date:   2015-06-11 13:58:09
-categories: ci
+categories: continuous integration
 tags: ci, git
 comments: true
 ---
