@@ -8,9 +8,7 @@ layout: default
         <h3>tags</h3>
         <ul>
         {% for data_tag in site.data.tags %}
-            {% if site.tags[data_tag] %}
-                <li><a href="/tag/{{ data_tag.slug }}/">{{ data_tag.name }}</a></li>
-            {% endif %}
+            <li><a href="/tag/{{ data_tag.slug }}/">{{ data_tag.name }}</a></li>
         {% endfor %}
         </ul>
     {% endif %}
