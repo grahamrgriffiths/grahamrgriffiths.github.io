@@ -6,3 +6,12 @@
 
 - slug: running
   name: Running
+
+- slug: ci
+  name: Continious Integration
+  
+- slug: git
+  name: Git
+  
+- slug: jMeter
+  name: Apache jMeter
