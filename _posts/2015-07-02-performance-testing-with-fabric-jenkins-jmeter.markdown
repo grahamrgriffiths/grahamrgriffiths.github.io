@@ -6,13 +6,13 @@ categories: jmeter
 tags: [performance, jMeter, ci]
 comments: true 
 ---
-{% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ page.url | | replace:'/','-' | remove_first: '-'}}/{% endcapture %}
-{% capture thumbURL %}{{imgURL}}thumbs/{% endcapture %}
-
 ## tl;dr
 I had a suite of jMeter tests that needed to be automated as part of a continuous integration setup, I used fabric 
 and jenkins to achieve this. 
 <!--more-->
+
+{% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ page.url | | replace:'/','-' | remove_first: '-'}}/{% endcapture %}
+{% capture thumbURL %}{{imgURL}}thumbs/{% endcapture %}
 
 ## Rationalle
 Different websites to performance test automatically, running from the 
