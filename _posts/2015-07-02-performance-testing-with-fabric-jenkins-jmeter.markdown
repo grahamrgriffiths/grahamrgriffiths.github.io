@@ -3,7 +3,7 @@ layout: post
 title: "Performance testing with fabric, jenkins, and jMeter" 
 date: 2015-07-02 13:15:00 
 categories: jmeter 
-tags: [ci, performance, jmeter] 
+tags: ci performance jmeter 
 comments: true 
 ---
 {% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ page.url | | replace:'/','-' | remove_first: '-'}}/{% endcapture %}
