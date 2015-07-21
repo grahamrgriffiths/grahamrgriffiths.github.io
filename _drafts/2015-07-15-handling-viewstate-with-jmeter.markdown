@@ -40,17 +40,17 @@ Using fiddler, this is a cut down example of the post request made:
 
 | Field Name  |  Field Value  |
 |-------------|---------------|
-|__VIEWSTATEFIELDCOUNT|4|
+|__VIEWSTATEFIELDCOUNT | 4 |
 |__VIEWSTATE   | /wEPDwULLTE3MDQxODY1MTUPZBYCZg |
 |__VIEWSTATE1  | cmVmPSIvSW5zdGl0dXRpb25zL0FjY291bn9 |
-|__VIEWSTATE2 |bGFzcz0ibmF2SXRlbUluYWN0aXZlIiBocm |
+|__VIEWSTATE2 | bGFzcz0ibmF2SXRlbUluYWN0aXZlIiBocm |
 |__VIEWSTATE3 | bnN3ZXJJRD5rX19CYWNraW5nRmllbGQbP |
 
 Notice the viewstate fields, there are many and each have a unique value.
 
 The number of fields also changes per request, depending on each question.
 
-* How can we dynamically submit these fields through jMeter? *
+*How can we dynamically submit these fields through jMeter?*
 
 I tried various solutions, but eventually settled on opting for using a regular expression extractor, and a Beanshell script. 
 
