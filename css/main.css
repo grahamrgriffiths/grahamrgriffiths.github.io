@@ -165,8 +165,10 @@ nav a:hover {
   height: 7.5em;
 }
 
-td {
+td, th {
   border: 1px solid;
+  text-align: center;
+  padding: 5px;
 }
 
 .icon > svg {
