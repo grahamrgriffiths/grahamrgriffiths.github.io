@@ -20,7 +20,7 @@ Deploy scripts are extremely useful once they are in place, but handling differe
 For example, the staging database should be different from the live database. If you’re deployment involves database changes, the correct connection settings need to be in place.
 
 Another example is variables that determine actions during the build, such as a database reload. 
-[*]This is a useful step in staging and development, for keeping test data up to date. It shouldn’t be used on live.
+* This is a useful step in staging and development, for keeping test data up to date. It shouldn’t be used on live.
 
 ## Approach
 Three environment based config files, development.py, staging.py and production.py
