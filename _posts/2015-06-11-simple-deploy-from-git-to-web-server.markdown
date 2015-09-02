@@ -11,7 +11,7 @@ A friend of mine asked me for help with deploying a git repo to their web server
 this post explains my solution.
 <!--more-->
 
-## Rationalle
+## Rationale
 I didn’t want to spend too much time playing with services like [https://codeship.com/](https://codeship.com/){:target="_blank"} 
 As they had ssh access to the server, and git installed - I figured a script would be the easiest way to go.
 
