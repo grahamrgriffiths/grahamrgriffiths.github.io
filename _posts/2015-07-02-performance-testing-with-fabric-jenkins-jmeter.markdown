@@ -14,7 +14,7 @@ and jenkins to achieve this.
 {% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ page.url | | replace:'/','-' | remove_first: '-'}}/{% endcapture %}
 {% capture thumbURL %}{{imgURL}}thumbs/{% endcapture %}
 
-## Rationalle
+## Rationale
 Different websites to performance test automatically, running from the 
 same third party application. Along with similar tests to run for each website, 
 and site specific tests.
