@@ -13,7 +13,7 @@ Writing a jMeter test capable of performance testing a C# / ASP Web Forms applic
 {% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ page.url | | replace:'/','-' | remove_first: '-'}}/{% endcapture %}
 {% capture thumbURL %}{{imgURL}}thumbs/{% endcapture %}
 
-## Rationalle
+## Rationale
 A question delivery system that uses C# / ASP web forms, a post back to mark the answer, and a form request to progress to the next question.
 
 If you’ve dealt with web forms, you’ll know that post backs result in view state.
