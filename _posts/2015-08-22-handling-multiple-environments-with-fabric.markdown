@@ -15,7 +15,7 @@ Fabric is a python library for streamlining SSH based application deployment, th
 {% capture thumbURL %}{{imgURL}}thumbs/{% endcapture %}
 
 ## Rationale
-Deploy scripts are extremely useful once there in place, but handling differences between development, staging, and production environments can be tricky.
+Deploy scripts are extremely useful once they are in place, but handling differences between development, staging, and production environments can be tricky.
 
 For example, the staging database should be different from the live database. If you’re deployment involves database changes, the correct connection settings need to be in place.
 
@@ -42,7 +42,7 @@ from loadEnfConfig import loadEnvConfig
 
 Fabfile.py also contains a build method, which can be invoked by Jenkins Shell or similar.
 
-[![Shell Execution in jenkins]({{"ENV-jenkinsShell.png" | prepend: thumbURL}} "Execute Shell in Jenkins")]({{"ENV-jenkinsShell.png" | prepend: imgURL}}){: data-lightbox="csv"}{: data-title="Executing a fabric command via shell in jenkins"}
+[![Shell Execution in jenkins]({{"ENV-jenkinsShell.png" | prepend: thumbURL}} "Execute Shell in Jenkins")]({{"ENV-jenkinsShell.png" | prepend: imgURL}}){: data-lightbox="shell"}{: data-title="Executing a fabric command via shell in jenkins"}
 
 In this example, three methods are called in turn pre_build, build, and deploy
 
