@@ -77,7 +77,7 @@ A welcomed break before the desserts arrived. It was at this point that I spotte
 
 To finish, we were presented with some specialised sweets and opted for a post dinner G&T - the gin (again, recommended - and the bottle shown to us) was Bahia. 
 
-[![After Dinner Sweets]({{"after-dinner-sweets.jpg" | prepend: thumbURL}} "Spherical melon and jujube")]({{"after-dinner-sweets.jpg" | prepend: imgURL}}){: data-lightbox="postdinner"}{: data-title="A selection of weird and wonderful bonbons"} 
+[![After Dinner Sweets]({{"after-dinner-sweets.jpg" | prepend: thumbURL}} "Spherical melon and jujube")]({{"after-dinner-sweets.jpg" | prepend: imgURL}}){: data-lightbox="postdinner"}{: data-title="A selection of weird and wonderful bonbons"}
 
 [![Bahia G&T]({{"g-and-t.jpg" | prepend: thumbURL}} "Bahia G&T")]({{"g-and-t.jpg" | prepend: imgURL}}){: data-lightbox="postdinner"}{: data-title="Post dinner gin and tonic"}
 
