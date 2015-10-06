@@ -7,11 +7,11 @@ tags: [food]
 comments: true 
 ---
 
-<!--PICTURE OF MENU COVER-->
-http://www.theworlds50best.com/list/1-50-winners/Arzak
-
 Unassumingly located on a busy street in San Sebastian, we were greeted by a concierge on departure from our taxi.
 <!--more-->
+
+<!--PICTURE OF MENU COVER
+http://www.theworlds50best.com/list/1-50-winners/Arzak -->
 
 {% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ page.url | | replace:'/','-' | remove_first: '-'}}/{% endcapture %}
 {% capture thumbURL %}{{imgURL}}thumbs/{% endcapture %}
