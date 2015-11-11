@@ -295,6 +295,10 @@ td, th {
         float: left;
         width: 57%;
     }
+    
+    article.post-content {
+        width: 100%;   
+    }
 
     .main aside {
         float: right;
