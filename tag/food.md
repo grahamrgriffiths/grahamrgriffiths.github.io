@@ -1,6 +1,6 @@
 ---
 layout: tag
-title: 'Food'
+title: 'food'
 tag: food
 permalink: /tag/food/
 ---
