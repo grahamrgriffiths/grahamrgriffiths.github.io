@@ -49,7 +49,7 @@ The ride between Caerphilly and Cardiff was common ground for me, mixed terrain 
 [![Roath Park Lake]({{"roathlake.jpg" | prepend: thumbURL}} "Roath Park Lake")]({{"roathlake.jpg" | prepend: imgURL}}){: data-lightbox="roathlake"}{: data-title="Roath Park Lake"}
 
 
-Overall I had no mechanical issues, or casualties myself - but I saw my fair share, including: 
+Overall I had no mechanical issues, or casualties myself - but I saw my fair share, including:
 * Riders coming off from going too fast in crowded spaces
 * Countless riders with punctures after tacs
 * Riders face planting the ground after going to fast over speed bumps.
