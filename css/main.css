@@ -212,6 +212,9 @@ td, th {
     .push {
         margin-top: 16.5em;
     }
+    img.responsive {
+        width: 50%;
+    }
 }
 /* footer normal */
 @media (min-width:768px){ 
