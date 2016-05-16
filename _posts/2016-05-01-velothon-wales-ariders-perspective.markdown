@@ -39,7 +39,7 @@ Having conquered the climb previously, I had a good idea of what was coming up. 
 
 Epic downhills followed, through Blaenavon and towards Pontypool. Onto long stretches of A roads and dual carriageways, crowds supporting us through Gelligroes, Ystrad Mynach, Llanbradech, and finally into Caerphilly.
 
-[![Caerphilly Castle]({{"caerphilly-castle.jpg.jpg" | prepend: thumbURL}} "Caerphilly Castle")]({{"caerphilly-castle.jpg.jpg" | prepend: imgURL}}){: data-lightbox="caerphilly"}{: data-title="Caerphilly Castle"}
+[![Caerphilly Castle]({{"caerphilly-castle.jpg" | prepend: thumbURL}} "Caerphilly Castle")]({{"caerphilly-castle.jpg" | prepend: imgURL}}){: data-lightbox="caerphilly"}{: data-title="Caerphilly Castle"}
 
 
 Here we were faced with the second major hill of the ride, some cyclists defeated before the summit. Others, (myself included) avoiding the wobbly riders, taking in the stunning view of the castle, and reaching our final fuelling station at the top.
