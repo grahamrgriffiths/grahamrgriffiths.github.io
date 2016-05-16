@@ -28,7 +28,7 @@ As a Cardiff resident, the start of the route was familiar. Down the main high s
 
 From Dyffryn into Newport, on some smoother roads - with a quick tour of the Sports Village, home of Velodrom Wales. It would have been rude not to swing by! Back onto country roads and through little villages, we eventually surfaced in the beautiful Roman village of Caerleon.
 
-[![Caerleon Villeage]({{"caerleon.jpg" | prepend: thumbURL}} "aerleon Villeage"){: class="responsive"}]({{"caerleon.jpg" | prepend: imgURL}}){: data-lightbox="caerleon"}{: data-title="Caerleon Villeage"}
+[![Caerleon Villeage]({{"caerleon.jpg" | prepend: thumbURL}} "Caerleon Villeage"){: class="responsive"}]({{"caerleon.jpg" | prepend: imgURL}}){: data-lightbox="caerleon"}{: data-title="Caerleon Villeage"}
 
 What followed were yet more picturesque country roads through Llanhennok, Llangybi, Llanbadoc, Rhadyr, and Monkswood. Not needing to take the shortcut near Little mill, I headed for the ‘Tumble’, via a few more places of course. 
 
