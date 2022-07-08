@@ -1,13 +1,14 @@
 <div class="header-container">
     <header class="wrapper clearfix">
-          <h1 class="title"><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
-
-
+      <h1 class="title"><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
       <nav class="site-nav">
-
         <div class="trigger">
           <ul role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
             {% for page in site.pages %}
+              {% if page.title == "home" %}
+               <li><a itemprop="url" class="page-link" href="https://www.grahamrgriffiths.com">
+                  <span itemprop="name">Main Site</span></a></li>
+              {% endif %}
               {% if page.title %}
                   {% if page.url contains 'tag' %}
                     
@@ -16,13 +17,9 @@
                   <span itemprop="name">{{ page.title }}</span></a></li>
                   {% endif %}
               {% endif %}
-            {% endfor %}
-            <li><a itemprop="url" class="page-link" href="http://www.grahamrgriffiths.com">
-                  <span itemprop="name">Main Site</span></a></li>
+            {% endfor %}           
           </ul>
         </div>
       </nav>
   </header>
 </div>
-
-
