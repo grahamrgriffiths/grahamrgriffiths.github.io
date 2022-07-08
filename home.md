@@ -10,4 +10,6 @@ I am a passionate technology leader, with experience developing and maintaining 
 
 I have a strong background in automation, continuous integration, and deployment. I am enthusiastic about developing secure, high quality, high performing software.
 
-I'm cycling across Europe for chairty. This time Holland is back on the cards - check out [this page](https://www.justgiving.com/team/54321gg22) for details
+I'm cycling across Europe for chairty. This time Holland is back on the cards - check out [this page](https://www.justgiving.com/team/54321gg22) for details.
+
+My blog doesn't get much attention these days, but you can [view the posts here.]({{ site.url }})
