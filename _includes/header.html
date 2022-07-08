@@ -5,17 +5,19 @@
         <div class="trigger">
           <ul role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
             {% for page in site.pages %}
-              {% if page.title == "Home" %}
-               <li><a itemprop="url" class="page-link" href="https://blog.grahamrgriffiths.com/home">
-                  <span itemprop="name">Home</span></a></li>
-              {% endif %}
               {% if page.title %}
-                  {% if page.url contains 'tag' %}
-                    
+                  {% if page.title == "Home" %}
+                    <li><a itemprop="url" class="page-link" href="https://blog.grahamrgriffiths.com/home">
+                      <span itemprop="name">Home</span></a></li>
                   {% else %}
-                  <li><a itemprop="url" class="page-link" href="{{ page.url | prepend: site.baseurl }}">
-                  <span itemprop="name">{{ page.title }}</span></a></li>
-                  {% endif %}
+              
+                    {% if page.url contains 'tag' %}
+                    
+                    {% else %}
+                    <li><a itemprop="url" class="page-link" href="{{ page.url | prepend: site.baseurl }}">
+                    <span itemprop="name">{{ page.title }}</span></a></li>
+                    {% endif %}
+                 {% endif %}
               {% endif %}
             {% endfor %}           
           </ul>
