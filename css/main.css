@@ -191,11 +191,11 @@ td, th {
 
 
 .footer-col-wrapper{
-  -webkit-column-count: 3;
+  -webkit-column-count: 4;
   -webkit-column-width: 200px;
-  -moz-column-count: 3;
+  -moz-column-count: 4;
   -moz-column-width: 200px;
-  column-count: 3;
+  column-count: 4;
   column-width: 200px;
 }
 
