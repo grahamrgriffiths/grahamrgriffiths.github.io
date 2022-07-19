@@ -434,3 +434,26 @@ td, th {
         page-break-after: avoid;
     }
 }
+
+/* ==========================================================================
+   Custom styles lost from normalize upgrade
+   ========================================================================== */
+
+figure {
+    margin: 1em 40px;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+    display: block;
+}
+
+table {
+    overflow: auto;
+    display: block;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+pre {
+    overflow: auto;
+}

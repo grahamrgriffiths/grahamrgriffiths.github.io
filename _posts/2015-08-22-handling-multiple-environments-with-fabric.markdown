@@ -43,7 +43,7 @@ from loadEnfConfig import loadEnvConfig
 
 Fabfile.py also contains a build method, which can be invoked by Jenkins Shell or similar.
 
-[![Shell Execution in jenkins]({{"ENV-jenkinsShell.png" | prepend: thumbURL}} "Execute Shell in Jenkins")]({{"ENV-jenkinsShell.png" | prepend: imgURL}}){: data-lightbox="shell"}{: data-title="Executing a fabric command via shell in jenkins"}
+[![Shell Execution in jenkins]({{"ENV-jenkinsShell.png" | prepend: thumbURL}} "Execute Shell in Jenkins"){: class="responsive"}]({{"ENV-jenkinsShell.png" | prepend: imgURL}}){: data-lightbox="shell"}{: data-title="Executing a fabric command via shell in jenkins"}
 
 In this example, three methods are called in turn pre_build, build, and deploy
 
