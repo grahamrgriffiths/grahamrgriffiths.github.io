@@ -1,1 +1,1 @@
-Sitemap: http://blog.grahamrgriffiths.com/sitemap.xml
+Sitemap: https://blog.grahamrgriffiths.com/sitemap.xml
