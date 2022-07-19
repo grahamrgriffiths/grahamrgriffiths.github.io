@@ -11,7 +11,7 @@ I’m quite an avid cyclist, but don’t take part in many large events. The Vel
 I don’t compete, but participate in charity rides instead.
 <!--more-->
 
-{% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ page.url | | replace:'/','-' | remove_first: '-'}}/{% endcapture %}
+{% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ page.url | replace:'/','-' | remove_first: '-'}}/{% endcapture %}
 {% capture thumbURL %}{{imgURL}}thumbs/{% endcapture %}
 
 After weeks of training, press about protesters, practicing tube repairs, and trying to figure out what type of saddle bag / camel back I was allowed to carry - the event finally arrived.
