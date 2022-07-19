@@ -11,7 +11,7 @@ comments: true
 Fabric is a python library for streamlining SSH based application deployment, this post details configuring multi-environment deployments.
 <!--more-->
 
-{% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ page.url | | replace:'/','-' | remove_first: '-'}}/{% endcapture %}
+{% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ page.url | replace:'/','-' | remove_first: '-'}}/{% endcapture %}
 {% capture thumbURL %}{{imgURL}}thumbs/{% endcapture %}
 
 ## Rationale

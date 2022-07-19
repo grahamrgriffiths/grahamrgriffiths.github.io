@@ -13,7 +13,7 @@ Unassumingly located on a busy street in San Sebastian, we were greeted by a con
 <!--PICTURE OF MENU COVER
 http://www.theworlds50best.com/list/1-50-winners/Arzak -->
 
-{% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ page.url | | replace:'/','-' | remove_first: '-'}}/{% endcapture %}
+{% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ page.url | replace:'/','-' | remove_first: '-'}}/{% endcapture %}
 {% capture thumbURL %}{{imgURL}}thumbs/{% endcapture %}
 
 Warmly welcomed in Spanish, we were shown to our table - in spite of being thirty minutes early. To start, a lightly refreshing house cocktail - whilst we waited for the head waiter.

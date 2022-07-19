@@ -11,7 +11,7 @@ I had a suite of jMeter tests that needed to be automated as part of a continuou
 and jenkins to achieve this. 
 <!--more-->
 
-{% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ page.url | | replace:'/','-' | remove_first: '-'}}/{% endcapture %}
+{% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ page.url | replace:'/','-' | remove_first: '-'}}/{% endcapture %}
 {% capture thumbURL %}{{imgURL}}thumbs/{% endcapture %}
 
 ## Rationale

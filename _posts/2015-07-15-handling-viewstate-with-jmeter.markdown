@@ -10,7 +10,7 @@ comments: true
 Writing a jMeter test capable of performance testing a C# / ASP Web Forms application with unpredictable viewstate fields.
 <!--more-->
 
-{% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ page.url | | replace:'/','-' | remove_first: '-'}}/{% endcapture %}
+{% capture imgURL %}{{ site.baseurl }}{{ site.url }}/img/{{ page.url | replace:'/','-' | remove_first: '-'}}/{% endcapture %}
 {% capture thumbURL %}{{imgURL}}thumbs/{% endcapture %}
 
 ## Rationale
