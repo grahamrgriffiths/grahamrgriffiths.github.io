@@ -20,8 +20,7 @@
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | remove: 'tl;dr' }}{% else %}{{ site.description }}{% endif %}" />
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ "/css/normalize.min.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ "/css/font-awesome.min.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/css/normalize.min.css" | prepend: site.baseurl }}">  
   <link rel="stylesheet" href="{{ "/css/lightbox.min.css" | prepend: site.baseurl }}">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
@@ -34,4 +33,5 @@
 
      <script src="{{ "/js/modernizr-custom.js" | prepend: site.baseurl }}"></script>
      <script src="{{ "/js/respond-1.4.2.min.js" | prepend: site.baseurl }}"></script>
+     <script src="https://kit.fontawesome.com/bb1d735683.js" crossorigin="anonymous"></script>
 </head>
