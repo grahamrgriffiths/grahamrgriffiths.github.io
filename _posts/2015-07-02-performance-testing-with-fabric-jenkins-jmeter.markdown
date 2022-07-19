@@ -43,9 +43,9 @@ As you may have geussed, view_page.jmx and view_page.csv are releated.
 The .jmx is a jmeter test that relies on the csv to run the tests. The 
 csv contains a URL to test, and a value to check on the page. 
 
-[![View CSV Settings in jMeter]({{"csvSetting1.jpg" | prepend: thumbURL}} "View CSV Settings in jMeter")]({{"csvSetting1.png" | prepend: imgURL}}){: data-lightbox="csv"}{: data-title="Setting up CSV in jMeter"}
+[![View CSV Settings in jMeter]({{"csvSetting1.jpg" | prepend: thumbURL}} "View CSV Settings in jMeter"){: class="responsive"}]({{"csvSetting1.png" | prepend: imgURL}}){: data-lightbox="csv"}{: data-title="Setting up CSV in jMeter"}
 
-[![View CSV Settings in jMeter]({{"csvSetting2.jpg" | prepend: thumbURL}} "View CSV Settings in jMeter")]({{"csvSetting2.png" | prepend: imgURL}}){: data-lightbox="csv"}{: data-title="Setting up CSV in jMeter"}
+[![View CSV Settings in jMeter]({{"csvSetting2.jpg" | prepend: thumbURL}} "View CSV Settings in jMeter"){: class="responsive"}]({{"csvSetting2.png" | prepend: imgURL}}){: data-lightbox="csv"}{: data-title="Setting up CSV in jMeter"}
 
 Notice the variable names, url_key,text_to_test
 
@@ -66,15 +66,15 @@ The build takes three main parameters: users, loops, and the ramp up
 period. It uses the git module to pull the latest code from a hosted 
 repository, then executes a fabric script using the shell command. 
 
-[![View Parameterised Build Example]({{"jenkinsParametersjMeter.jpg" | prepend: thumbURL}} "View Parameterised Build Example")]({{"jenkinsParametersjMeter.png" | prepend: imgURL}}){: data-lightbox="jenkinsParametersjMeter"}{: data-title="Example of setting parameters for a jenkins build"}
+[![View Parameterised Build Example]({{"jenkinsParametersjMeter.jpg" | prepend: thumbURL}} "View Parameterised Build Example"){: class="responsive"}]({{"jenkinsParametersjMeter.png" | prepend: imgURL}}){: data-lightbox="jenkinsParametersjMeter"}{: data-title="Example of setting parameters for a jenkins build"}
 
-[![View Git Configuration Example]({{"jenkinsGit.jpg" | prepend: thumbURL}} "View Parameterised Build Example")]({{"jenkinsGit.png" | prepend: imgURL}}){: data-lightbox="jenkinsGit"}{: data-title="Example of git configuration for a jenkins build"}
+[![View Git Configuration Example]({{"jenkinsGit.jpg" | prepend: thumbURL}} "View Parameterised Build Example"){: class="responsive"}]({{"jenkinsGit.png" | prepend: imgURL}}){: data-lightbox="jenkinsGit"}{: data-title="Example of git configuration for a jenkins build"}
 
-[![View Shell Execution Example]({{"jenkinsShell.jpg" | prepend: thumbURL}} "View Parameterised Build Example")]({{"jenkinsShell.png" | prepend: imgURL}}){: data-lightbox="jenkinsShell"}{: data-title="Example of executing a shell script for a jenkins build"}
+[![View Shell Execution Example]({{"jenkinsShell.jpg" | prepend: thumbURL}} "View Parameterised Build Example"){: class="responsive"}]({{"jenkinsShell.png" | prepend: imgURL}}){: data-lightbox="jenkinsShell"}{: data-title="Example of executing a shell script for a jenkins build"}
 
-The  jMeter plugin we use provides some basic reporting graphs which are useful.
+The jMeter plugin we use provides some basic reporting graphs which are useful.
 
-[![View Response Graph Example]({{"responseTimeGraph.jpg" | prepend: thumbURL}} "View Parameterised Build Example")]({{"responseTimeGraph.png" | prepend: imgURL}}){: data-lightbox="responseTimeGraph"}{: data-title="Example of response time graph from jenkins jMeter plugin"}
+[![View Response Graph Example]({{"responseTimeGraph.jpg" | prepend: thumbURL}} "View Parameterised Build Example"){: class="responsive"}]({{"responseTimeGraph.png" | prepend: imgURL}}){: data-lightbox="responseTimeGraph"}{: data-title="Example of response time graph from jenkins jMeter plugin"}
 
 This show's me how response time of a widely used page has improved per build, the jenkins builds detail the changes too.
 
