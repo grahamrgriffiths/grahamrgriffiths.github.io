@@ -10,6 +10,6 @@ I am a passionate technology leader, with experience developing and maintaining 
 
 I have a strong background in automation, continuous integration, and deployment. I am enthusiastic about developing secure, high quality, high performing software.
 
-I'm cycling across Europe for chairty. This year we'll be heading to Spain. More details coming soon.
+I've recently completed a 200-mile cycle in Spain for charity. Please sponsor me [here](https://www.justgiving.com/fundraising/gg-54321-2023)
 
 My blog doesn't get much attention these days, but you can [view the posts here.]({{ site.url }})
